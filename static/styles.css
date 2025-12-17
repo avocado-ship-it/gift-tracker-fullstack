@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+.gift-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+.gift-item input[type="checkbox"] {
+    cursor: pointer;
+}
+.gift-item span {
+    font-size: 16px;
+}
