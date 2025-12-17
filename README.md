@@ -5,7 +5,6 @@ A simple web app to track gift wishes with completion status.
 ## Features
 - Add gift wishes with names
 - Mark gifts as complete with checkboxes
-- Clean UI using W3.CSS
 - SQLite database storage
 
 ## Setup
@@ -27,3 +26,4 @@ python main.py
 - SQLite (database)
 - W3.CSS (styling)
 - Vanilla JavaScript
+
